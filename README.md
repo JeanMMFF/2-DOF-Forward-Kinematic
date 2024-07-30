@@ -1,2 +1,2 @@
-# 2-DOF-Forward-Kinematic
-2 Degree Of Freedom Forward Kinematic Robot Hand Based on Arduino
+# 3-DOF-Forward-Kinematic
+3 Degree Of Freedom Forward Kinematic Robot Hand Based on Arduino
